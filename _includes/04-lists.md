@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### list of favbooks
+1. Atomic Habits
+2. Limitless
+3. Rich Dad Poor Dad
+   
